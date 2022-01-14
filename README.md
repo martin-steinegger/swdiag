@@ -1,1 +1,2 @@
 # conserve
+# foldseek-analysis
